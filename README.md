@@ -43,6 +43,11 @@ Excel.
 
 ###
 
+<div align="center">
+  <img height="150" width="1000" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/1c89271577ce8a3b1c8a377e704236ff90f2d4be/assets/github-snake.svg"  />
+</div>
+
+
 
 <h3 align="left">🛠 Технологии:</h3>
 
@@ -65,11 +70,6 @@ Excel.
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" alt="bash logo"  />
   <img width="12" />
-</div>
-
-
-<div align="center">
-  <img height="150" width="1000" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/1c89271577ce8a3b1c8a377e704236ff90f2d4be/assets/github-snake.svg"  />
 </div>
 
 
