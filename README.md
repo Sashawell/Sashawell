@@ -28,9 +28,9 @@
 
 ###
 <p align="left">Я начинающий аналитик данных и буду рад принести пользу вашему проекту!
-<p align="left"> Я на [Хабр Карьере](https://career.habr.com/sashadataanalysis)
-<p align="left"> Я на [hh.ru](https://rostov.hh.ru/resume/622dcf2aff0e5f36cd0039ed1f4c6f30387436)
-<p align="left"> Я на [LinkedIn](https://www.linkedin.com/in/sasha-well-06629134b/)
+<br><br> Я на [Хабр Карьере](https://career.habr.com/sashadataanalysis)
+<br><br> Я на [hh.ru](https://rostov.hh.ru/resume/622dcf2aff0e5f36cd0039ed1f4c6f30387436)
+<br><br> Я на [LinkedIn](https://www.linkedin.com/in/sasha-well-06629134b/)
   
 Стек технологий: 
 <br><br>Технические: Python (pandas, pivottablejs, NumPy, Glob, datetime, matplotlib, re, aiogram3, sql
