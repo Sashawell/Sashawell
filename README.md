@@ -27,10 +27,15 @@
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
-<p align="left">Я начинающий аналитик данных и буду рад принести пользу вашему проекту!
-<br><br> Я на [Хабр Карьере](https://career.habr.com/sashadataanalysis)
-<br><br> Я на [hh.ru](https://rostov.hh.ru/resume/622dcf2aff0e5f36cd0039ed1f4c6f30387436)
-<br><br> Я на [LinkedIn](https://www.linkedin.com/in/sasha-well-06629134b/)
+<p class="left-align">Я начинающий аналитик данных и буду рад принести пользу вашему проекту!</p>
+<br><br>
+<p class="left-align">Я на <a href="https://career.habr.com/sashadataanalysis" target="_blank" rel="noopener">Хабр Карьере</a></p>
+<br><br>
+<p class="left-align">Я на <a href="https://rostov.hh.ru/resume/622dcf2aff0e5f36cd0039ed1f4c6f30387436" target="_blank" rel="noopener">hh.ru</a></p>
+<br><br>
+<p class="left-align">Я на <a href="https://www.linkedin.com/in/sasha-well-06629134b/" target="_blank" rel="noopener">LinkedIn</a></p>
+
+html
   
 Стек технологий: 
 <br><br>Технические: Python (pandas, pivottablejs, NumPy, Glob, datetime, matplotlib, re, aiogram3, sql
