@@ -39,6 +39,8 @@ Excel.
 <br><br>- 🔭 Проешел курс "Симулятор SQL" (Автор и преподаватель - Анатолий Карпов) - [Сертификат](https://lab.karpov.courses/certificate/2c743623-2841-4a77-a414-39ee0ae23bf8/).
 <br>- 📚 Альфа-тест по Pandas (Автор it-minimalist).
 <br>- ⚡ Добрый, добрый Python ООП (Автор Сергей Балакирев).
+<br>- ⭐ Курс от Глеба Михайлова по прикладной статистике
+<br>- ✔️ Курс по прикладной статистике от ААА (Академия аналитиков Авито)
 <br>- 📖 Онлайн курс по SQL  (На веб сайте SQL Academy)</p>
 
 ###
@@ -71,20 +73,5 @@ Excel.
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" alt="bash logo"  />
   <img width="12" />
 </div>
-
-
-###
-
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://www.codewars.com/users/Sashawell/badges/large" height="220" alt="streak graph"  />
-</div>
-
-###
-
-![Моя статистика](https://skrinshoter.ru/s/200924/FJAlOYDz.jpg?download=1&name=Скриншот-20-09-2024%2011:58:07.jpg)
 
 ###
