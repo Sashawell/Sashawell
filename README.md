@@ -35,9 +35,9 @@
 ###
   
 Стек технологий: 
-<br><br>Технические: Python (pandas, pivottablejs, NumPy, Glob, datetime, matplotlib, re, aiogram3, sql
+<br><br>Технические: Python (pandas, matplotlib, pivottablejs, NumPy, Glob, datetime, re, aiogram3, sql
 alchemy), SQL, PostgreSQL, MySQL.
-<br><br>Другие: Redash, Yandex Datalens, Jupyter Notebook, Google sheets, MS PowerPoint, Vs Code, Microsoft 
+<br><br>Другие: Redash, Yandex Datalens, Docker, Математическая статистика, Теория вероятности, Jupyter Notebook, Google sheets, MS PowerPoint, Vs Code, Microsoft 
 Excel.
 <br><br>Языки: Английский (B2) 
 
